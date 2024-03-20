@@ -1,6 +1,6 @@
 # Hi!!
 
-I'm Martiris Yordenis Guzman, and I'm on a mission to become a skilled software developer, specializing in web and mobile development. My goal is to be a full-stack developer.
+I'm Martiris Yordenis Guzman, currently 20 years old and I'm on a mission to become a skilled software developer, specializing in web and mobile development. My goal is to be a full-stack developer.
 I have a genuine passion for learning and problem-solving, and I'm excited about the prospect of contributing to innovative projects. 
 
 ## Technologies I use:
